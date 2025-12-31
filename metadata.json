@@ -1,0 +1,9 @@
+
+{
+  "name": "Kaushal Raj Gupta Portfolio",
+  "description": "A premium, deep-black themed portfolio for a Full Stack Developer & Cybersecurity enthusiast, featuring glassmorphism, Framer Motion animations, and Gemini-powered insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
